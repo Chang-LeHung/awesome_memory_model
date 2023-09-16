@@ -1,7 +1,7 @@
 # awesome_memory_model
 A curated list of awesome memory resources about memory model, concurrent programming model
 
-## Paper & Book
+## Papers & Books
 
 - [C++ Memory Model: Migrating from X86 to ARM](https://www.arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm/)
 - [An Operational Happens-Before Memory Model](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-015-4492-4)
