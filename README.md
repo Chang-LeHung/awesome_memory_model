@@ -36,4 +36,5 @@ What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - https://preshing.com/20120710/memory-barriers-are-like-source-control-operations/
 - https://preshing.com/20140709/the-purpose-of-memory_order_consume-in-cpp11/
 - https://preshing.com/20130823/the-synchronizes-with-relation/
-- 
+- https://preshing.com/20120913/acquire-and-release-semantics/
+- https://preshing.com/20130702/the-happens-before-relation/
