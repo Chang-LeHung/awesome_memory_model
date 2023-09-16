@@ -25,10 +25,15 @@ What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [C++ Concurrency in Action](https://www.bogotobogo.com/cplusplus/files/CplusplusConcurrencyInAction_PracticalMultithreading.pdf)
 - [Concurrent library correctness on the TSO memory model](https://software.imdea.org/~gotsman/papers/lintso-esop12.pdf)
 - [A Promising Semantics for Relaxed-Memory Concurrency](https://www.cs.tau.ac.il/~orilahav/papers/popl17.pdf)
+- [the-art-of-multiprocessor-programming](https://cs.ipm.ac.ir/asoc2016/Resources/Theartofmulticore.pdf)
 
 ## Internet Resources & Discussion
 - https://en.cppreference.com/w/cpp/atomic/memory_order
-- https://preshing.com/20140709/the-purpose-of-memory_order_consume-in-cpp11/
 - https://preshing.com/20120625/memory-ordering-at-compile-time/
 - https://www.alibabacloud.com/blog/memory-model-and-synchronization-primitive---part-1-memory-barrier_597460?spm=a2c65.11461447.0.0.69a8539dxjkS4O
 - https://www.alibabacloud.com/blog/memory-model-and-synchronization-primitive---part-2-memory-model_597461
+- https://preshing.com/20120930/weak-vs-strong-memory-models/
+- https://preshing.com/20120710/memory-barriers-are-like-source-control-operations/
+- https://preshing.com/20140709/the-purpose-of-memory_order_consume-in-cpp11/
+- https://preshing.com/20130823/the-synchronizes-with-relation/
+- 
